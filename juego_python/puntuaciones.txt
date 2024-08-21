@@ -1,1 +1,4 @@
-[name - "record"]
+& C:/Users/jesus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/jesus/Documents/GitHub/Python/juego_python/pygame1.py - 8
+JESUS - 6
+Jeus - 10
+& C:/Users/jesus/AppData/Local/Programs/Python/Python312/python.exe c:/Users/jesus/Documents/GitHub/Python/juego_python/pygame1.py - 1
